@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-class Graph {
+public class Graph {
     int numberOfStrings;
     int[][] matrix, sourceNetwork;
     private int[][] residualNetwork;
